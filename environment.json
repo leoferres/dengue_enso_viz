@@ -1,0 +1,22 @@
+{
+  "platform": "Linux Mint 22.2 / Ubuntu 24.04",
+  "Python": "3.12.3",
+  "QGIS": "3.44.15-Solothurn",
+  "Qt": "5.15.13",
+  "PyQt": "5.15.10",
+  "NumPy": "1.26.4",
+  "Matplotlib": "3.6.3",
+  "GDAL": "GDAL 3.8.4, released 2024/02/08",
+  "FFmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers",
+  "verification": {
+    "date": "2026-11-10",
+    "reference_source": "enso_dengue_2007_2025_v2_linkedin_30fps.mp4",
+    "reference_sha256": "1feebd1a893a0d968f1cee2c347f3ede8148461ca07caced92dfab7e9839a813",
+    "relocated_copy_byte_identical": true,
+    "width": 1510,
+    "height": 850,
+    "fps": 30,
+    "duration_seconds": 76,
+    "frames": 2280
+  }
+}
